@@ -1,4 +1,5 @@
 # Athouba-demo1
 This is my first Git Repository.
 <br>
-Author- Irom Athouba singha 
+Author- Irom Athouba mangang
+
